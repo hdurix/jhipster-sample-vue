@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleVue",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "ODcyYzYwM2U3M2ZkMDY1ZWVhZDEyMGRjZDBhMjAyMGRlMmVmZmFlMjgyYTUzYzg4NmEyYzdmYjA3ZTVhZTI4MTE0MTNmYzIzOGY4MjUwNGY1ZDIyY2JmY2IwZjEzOTJlN2Y1ZjdmYTk0MzZlY2U5MzA0ZTZkMTM1MzM0ODUxNTM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "hdurix",
+  "repository-name": "jhipster-sample-vue"
+}
